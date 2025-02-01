@@ -1,0 +1,139 @@
+"Causa - CID-BR-10";"1 Região Norte";"2 Região Nordeste";"3 Região Sudeste";"4 Região Sul";"5 Região Centro-Oeste";"Total"
+"001-031 ALGUMAS DOENÇAS INFECCIOSAS E PARASITÁRIAS";35680;92273;231051;83068;44595;486667
+". 001 Doenças infecciosas intestinais";397;1382;1435;518;273;4005
+"... 003 Diarréia e gastroenterite orig infec pres";302;920;1025;342;178;2767
+"... 004 Outras doenças infecciosas intestinais";95;462;410;176;95;1238
+". 005-006 Tuberculose";492;1422;2285;628;293;5120
+"... 005 Tuberculose respiratória";454;1314;2088;556;259;4671
+"... 006 Outras tuberculoses";38;108;197;72;34;449
+". 007-015 Outras doenças bacterianas";1862;7568;14306;3188;1110;28034
+"... 008 Leptospirose";18;72;84;47;4;225
+"... 009 Hanseníase";24;58;27;11;22;142
+"... 010 Tétano";7;16;9;17;6;55
+"..... 010.3 Tétano acidental";7;16;9;17;6;55
+"... 011 Difteria";-;2;-;-;-;2
+"... 012 Coqueluche";-;1;-;-;-;1
+"... 013 Infecção meningocócica";8;13;41;6;1;69
+"... 014 Septicemia";1312;6088;12610;2801;891;23702
+"... 015 Infecções com transmissão predom sexual";45;71;133;44;22;315
+". 016-023 Doenças virais";1634;3202;5619;2874;1095;14424
+"... 018 Dengue";16;35;62;33;61;207
+"... 019 Febre amarela";3;-;-;3;2;8
+"... 020 Out febres p/arbovírus e febr hemor virais";25;93;103;18;53;292
+"... 021 Sarampo";3;-;-;-;-;3
+"... 022 Hepatite viral";190;278;804;337;112;1721
+"... 023 Doen p/vírus da imunodefic humana (HIV)";1362;2655;4380;2372;815;11584
+". 024-027 Doenças transmitidas por protozoários";188;1157;2046;205;994;4590
+"... 024 Malária";52;5;1;1;2;61
+"... 025 Leishmaniose";41;128;42;5;20;236
+"... 026 Doença de Chagas";70;987;1954;185;963;4159
+"... 027 Toxoplasmose";23;26;29;7;7;92
+". 028-030 Helmintíases";13;319;170;17;15;534
+"... 028 Esquistossomose";1;277;134;-;4;416
+"... 029 Cisticercose";2;26;23;12;7;70
+"... 030 Restante de helmintíases";10;16;13;5;4;48
+". 031 Restante algumas doenç infec e parasitárias";31094;77223;205190;75638;40815;429960
+"032-052 NEOPLASIAS";12156;52810;110148;44989;15702;235805
+". 032 Neopl malig do lábio, cav oral e faringe";316;1912;3852;1387;596;8063
+". 033 Neoplasia maligna do esôfago";311;1889;3754;1935;541;8430
+". 034 Neoplasia maligna do estômago";1213;3364;6328;2529;826;14260
+". 035 Neoplasia maligna do cólon,reto e ânus";740;3410;11362;4321;1429;21262
+". 036 Neopl malig do fígado e vias bil intrahepát";700;2617;4582;2036;663;10598
+". 037 Neoplasia maligna do pâncreas";437;2262;5981;2498;796;11974
+". 038 Neoplasia maligna da laringe";212;1023;2175;828;324;4562
+". 039 Neopl malig da traquéia,brônquios e pulmões";1288;5629;13179;6873;1998;28967
+". 040 Neoplasia maligna da pele";67;299;778;583;105;1832
+". 041 Neoplasia maligna da mama";808;4212;8967;3186;1188;18361
+". 042 Neoplasia maligna do colo do útero";865;2117;2144;989;491;6606
+". 043 Neopl malig de corpo e partes n/esp útero";185;908;2015;618;281;4007
+". 044 Neoplasia maligna do ovário";185;931;1915;720;286;4037
+". 045 Neoplasia maligna da próstata";924;4462;6880;2867;1168;16301
+". 046 Neoplasia maligna da bexiga";153;809;2603;1066;298;4929
+". 047 Neopl malig mening,encéf e out partes SNC";530;2153;4321;1951;729;9684
+". 048 Linfoma não-Hodgkin";163;915;2040;902;294;4314
+". 049 Mieloma mult e neopl malig de plasmócitos";141;703;1818;571;228;3461
+". 050 Leucemia";425;1549;3005;1300;537;6816
+". 051 Neoplasias in situ, benig, comport incert";312;1322;2447;645;315;5041
+". 052 Restante de neoplasias malignas";2181;10324;20002;7184;2609;42300
+"053-054 D SANGUE E ORG HEMAT E ALGUNS TRANS IMUNIT";561;2013;3419;842;461;7296
+". 053 Anemias";386;1368;2263;487;280;4784
+". 054 Rest d sangue, org hemat e alg transt imunit";175;645;1156;355;181;2512
+"055-057 D ENDÓCRINAS, NUTRICIONAIS E METABÓLICAS";6512;29072;39968;15465;5801;96818
+". 055 Diabetes mellitus";5273;23874;31753;12928;4430;78258
+". 056 Desnutrição";529;1716;1651;469;352;4717
+". 057 Rest doenças endócr, nutricion e metabólicas";710;3482;6564;2068;1019;13843
+"058-059 TRANSTORNOS MENTAIS E COMPORTAMENTAIS";662;5431;8183;2823;1310;18409
+". 058 Transt ment e comport uso subst psicoativas";434;4096;4671;2087;945;12233
+"... 058.1 Trans ment e comport devid uso álcool";309;2947;3364;1504;706;8830
+". 059 Rest transtornos mentais e comportamentais";228;1335;3512;736;365;6176
+"060-063 DOENÇAS DO SISTEMA NERVOSO";1937;10642;23310;10547;3091;49527
+". 060 Meningite";40;114;274;107;39;574
+". 061 Doença de Alzheimer";713;5219;12892;5212;1506;25542
+". 062 Epilepsia";230;1118;1784;697;339;4168
+". 063 Restante das doenças do sistema nervoso";954;4191;8360;4531;1207;19243
+"064 DOENÇAS DOS OLHOS E ANEXOS";3;7;11;2;1;24
+"065 DOENÇAS DO OUVIDO E DA APÓFISE MASTÓIDE";15;46;73;17;5;156
+"066-072 DOENÇAS DO APARELHO CIRCULATÓRIO";21279;99733;177183;58508;25804;382507
+". 066 Febre reumát aguda e doen reum crôn coração";136;645;942;372;205;2300
+". 067 Doenças hipertensivas";3542;20319;30432;10091;4145;68529
+". 068 Doenças isquêmicas do coração";6668;30161;53386;16936;8538;115689
+"... 068.1 Infarto agudo do miocárdio";6071;25644;44373;12684;7040;95812
+". 069 Outras doenças cardíacas";3477;16157;39163;11296;4934;75027
+". 070 Doenças cerebrovasculares";6832;28525;44283;16767;6647;103054
+". 071 Aterosclerose";17;249;396;90;47;799
+". 072 Rest doenças do aparelho circulatório";607;3677;8581;2956;1288;17109
+"073-077 DOENÇAS DO APARELHO RESPIRATÓRIO";9085;34453;69906;20089;8935;142468
+". 073 Influenza (gripe)";149;392;713;113;46;1413
+". 074 Pneumonia";4831;15368;34646;7884;4045;66774
+". 075 Out infec agudas das vias aéreas inferiores";65;578;422;131;50;1246
+"... 075.1 Bronquiolite";23;65;169;39;23;319
+". 076 Doenças crônicas das vias aéreas inferiores";2076;7690;17195;8787;3364;39112
+"... 076.1 Asma";115;717;1031;477;148;2488
+". 077 Restante  doenças do aparelho respiratório";1964;10425;16930;3174;1430;33923
+"078-082 DOENÇAS DO APARELHO DIGESTIVO";4150;18893;32820;10965;5489;72317
+". 078 Úlcera gástrica, duodenal e péptica";237;1067;1853;629;320;4106
+". 079 Peritonite";107;524;762;203;68;1664
+". 080 Doenças do fígado";1612;7743;12191;4022;2120;27688
+"... 080.1 Doença alcoólica do fígado";496;3410;4226;1753;983;10868
+"... 080.2 Fibrose e cirrose do fígado";672;1928;5108;1599;765;10072
+"... 080.3 Outras doenças do fígado";444;2405;2857;670;372;6748
+". 081 Colecistite";109;405;895;456;152;2017
+". 082 Rest doenças do aparelho digestivo";2085;9154;17119;5655;2829;36842
+"083 DOENÇAS DA PELE E TECIDO SUBCUTÂNEO";320;2551;4092;848;358;8169
+"084 DOENÇAS SIST OSTEOMUSC E TECIDO CONJUNTIVO";367;1690;2949;774;390;6170
+"085-087 DOENÇAS DO APARELHO GENITURINÁRIO";2384;10510;27674;7166;3124;50858
+". 085 D glomerulares e d renais túbulo-interstic";165;1289;2835;570;368;5227
+". 086 Insuficiência renal";1375;4021;8570;2744;1303;18013
+". 087 Rest doenças do aparelho geniturinário";844;5200;16269;3852;1453;27618
+"088-092 GRAVIDEZ, PARTO E PUERPÉRIO";478;957;1207;434;331;3407
+". 088 Gravidez que termina em aborto";23;29;42;10;12;116
+". 089 Outras causas obstétricas diretas";138;325;280;94;75;912
+". 090 Causas obstétricas indiretas";271;469;703;274;222;1939
+". 091 Causa obstétrica não espec direta/indireta";5;15;30;6;5;61
+". 092 Causas maternas tardias e sequelas";41;119;152;50;17;379
+"093-097 ALG AFECÇÕES ORIGIN NO PERÍODO PERINATAL";2588;6099;6427;1982;1506;18602
+". 093 Feto e recemnasc afet fat mat e compl grav";663;1471;2050;843;540;5567
+". 094 Transt relac duração gestação e cresc fetal";234;596;416;123;99;1468
+". 095 Traumatismo de parto";8;8;9;4;4;33
+". 096 Trans resp e cardiovas espec per perinatal";970;2146;1964;545;430;6055
+". 097 Rest afec originadas no período perinatal";713;1878;1988;467;433;5479
+"098-100 MALF CONGÊN, DEFORM E ANOMAL CROMOSSÔMICAS";1148;2873;3662;1379;930;9992
+". 098 Malformações congênitas do sistema nervoso";205;478;493;175;163;1514
+". 099 Malf congênitas do aparelho circulatório";462;1049;1395;549;349;3804
+". 100 Rest de malf cong, deform e anomal Cromoss";481;1346;1774;655;418;4674
+"101-103 SINT, SIN E ACH ANORM CLÍN E LAB, NCOP";7624;26187;48404;8916;3003;94134
+". 101 Senilidade";222;1292;1875;385;184;3958
+". 102 Morte sem assistência médica";1799;2810;4332;635;140;9716
+". 103 Rest sint, sin e ach anorm clín e laborat";5603;22085;42197;7896;2679;80460
+"104-113 CAUSAS EXTERNAS DE MORBIDADE E MORTALIDADE";14404;47632;53247;21412;12627;149322
+". 104 Acidentes de transporte";3418;10556;11362;5826;3870;35032
+". 105 Quedas";859;3580;7440;3440;1555;16874
+". 106 Afogamento e submersões acidentais";770;1546;1461;628;431;4836
+". 107 Exposição à fumaça, ao fogo e às chamas";47;179;464;213;67;970
+". 108 Envenen, intoxic por ou expos a subst nociv";59;112;517;80;75;843
+". 109 Lesões autoprovocadas voluntariamente";1209;3792;5607;3479;1412;15499
+". 110 Agressões";6422;20247;10847;4628;3418;45562
+". 111 Eventos(fatos) cuja intenção é indeterminada";462;3474;8105;1104;698;13843
+". 112 Intervenções legais e operações de guerra";143;817;770;321;234;2285
+". 113 Todas as outras causas externas";1015;3329;6674;1693;867;13578
+"Total";121353;443872;843734;290226;133463;1832648

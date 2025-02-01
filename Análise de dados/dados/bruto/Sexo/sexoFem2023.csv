@@ -1,0 +1,136 @@
+"Causa - CID-BR-10";"Óbitos p/Residênc"
+"001-031 ALGUMAS DOENÇAS INFECCIOSAS E PARASITÁRIAS";33100
+". 001 Doenças infecciosas intestinais";3212
+"... 003 Diarréia e gastroenterite orig infec pres";2274
+"... 004 Outras doenças infecciosas intestinais";938
+"..... 004.1 Febres tifóide e paratifóide";1
+". 005-006 Tuberculose";1484
+"... 005 Tuberculose respiratória";1311
+"... 006 Outras tuberculoses";173
+". 007-015 Outras doenças bacterianas";15432
+"... 008 Leptospirose";56
+"... 009 Hanseníase";35
+"... 010 Tétano";11
+"..... 010.3 Tétano acidental";11
+"... 011 Difteria";1
+"... 013 Infecção meningocócica";69
+"... 014 Septicemia";13373
+"... 015 Infecções com transmissão predom sexual";134
+". 016-023 Doenças virais";5064
+"... 018 Dengue";413
+"... 020 Out febres p/arbovírus e febr hemor virais";341
+"... 022 Hepatite viral";562
+"... 023 Doen p/vírus da imunodefic humana (HIV)";3398
+". 024-027 Doenças transmitidas por protozoários";1975
+"... 024 Malária";24
+"... 025 Leishmaniose";61
+"... 026 Doença de Chagas";1837
+"... 027 Toxoplasmose";25
+". 028-030 Helmintíases";276
+"... 028 Esquistossomose";216
+"... 029 Cisticercose";31
+"... 030 Restante de helmintíases";29
+". 031 Restante algumas doenç infec e parasitárias";5657
+"032-052 NEOPLASIAS";123977
+". 032 Neopl malig do lábio, cav oral e faringe";1978
+". 033 Neoplasia maligna do esôfago";1766
+". 034 Neoplasia maligna do estômago";5513
+". 035 Neoplasia maligna do cólon,reto e ânus";12335
+". 036 Neopl malig do fígado e vias bil intrahepát";4718
+". 037 Neoplasia maligna do pâncreas";6918
+". 038 Neoplasia maligna da laringe";623
+". 039 Neopl malig da traquéia,brônquios e pulmões";14479
+". 040 Neoplasia maligna da pele";871
+". 041 Neoplasia maligna da mama";20165
+". 042 Neoplasia maligna do colo do útero";7209
+". 043 Neopl malig de corpo e partes n/esp útero";4334
+". 044 Neoplasia maligna do ovário";4444
+". 046 Neoplasia maligna da bexiga";1829
+". 047 Neopl malig mening,encéf e out partes SNC";4829
+". 048 Linfoma não-Hodgkin";2091
+". 049 Mieloma mult e neopl malig de plasmócitos";1904
+". 050 Leucemia";3416
+". 051 Neoplasias in situ, benig, comport incert";2654
+". 052 Restante de neoplasias malignas";21901
+"053-054 D SANGUE E ORG HEMAT E ALGUNS TRANS IMUNIT";3840
+". 053 Anemias";2460
+". 054 Rest d sangue, org hemat e alg transt imunit";1380
+"055-057 D ENDÓCRINAS, NUTRICIONAIS E METABÓLICAS";47047
+". 055 Diabetes mellitus";37877
+". 056 Desnutrição";2024
+". 057 Rest doenças endócr, nutricion e metabólicas";7146
+"058-059 TRANSTORNOS MENTAIS E COMPORTAMENTAIS";5839
+". 058 Transt ment e comport uso subst psicoativas";1604
+"... 058.1 Trans ment e comport devid uso álcool";701
+". 059 Rest transtornos mentais e comportamentais";4235
+"060-063 DOENÇAS DO SISTEMA NERVOSO";31988
+". 060 Meningite";408
+". 061 Doença de Alzheimer";19771
+". 062 Epilepsia";1721
+". 063 Restante das doenças do sistema nervoso";10088
+"064 DOENÇAS DOS OLHOS E ANEXOS";12
+"065 DOENÇAS DO OUVIDO E DA APÓFISE MASTÓIDE";131
+"066-072 DOENÇAS DO APARELHO CIRCULATÓRIO";182997
+". 066 Febre reumát aguda e doen reum crôn coração";1543
+". 067 Doenças hipertensivas";33661
+". 068 Doenças isquêmicas do coração";47749
+"... 068.1 Infarto agudo do miocárdio";37613
+". 069 Outras doenças cardíacas";38751
+". 070 Doenças cerebrovasculares";51409
+". 071 Aterosclerose";396
+". 072 Rest doenças do aparelho circulatório";9488
+"073-077 DOENÇAS DO APARELHO RESPIRATÓRIO";83850
+". 073 Influenza (gripe)";745
+". 074 Pneumonia";42830
+". 075 Out infec agudas das vias aéreas inferiores";841
+"... 075.1 Bronquiolite";317
+". 076 Doenças crônicas das vias aéreas inferiores";24549
+"... 076.1 Asma";1699
+". 077 Restante  doenças do aparelho respiratório";14885
+"078-082 DOENÇAS DO APARELHO DIGESTIVO";31112
+". 078 Úlcera gástrica, duodenal e péptica";1947
+". 079 Peritonite";1021
+". 080 Doenças do fígado";6683
+"... 080.1 Doença alcoólica do fígado";1319
+"... 080.2 Fibrose e cirrose do fígado";2756
+"... 080.3 Outras doenças do fígado";2608
+". 081 Colecistite";1212
+". 082 Rest doenças do aparelho digestivo";20249
+"083 DOENÇAS DA PELE E TECIDO SUBCUTÂNEO";5715
+"084 DOENÇAS SIST OSTEOMUSC E TECIDO CONJUNTIVO";4465
+"085-087 DOENÇAS DO APARELHO GENITURINÁRIO";30764
+". 085 D glomerulares e d renais túbulo-interstic";3624
+". 086 Insuficiência renal";7574
+". 087 Rest doenças do aparelho geniturinário";19566
+"088-092 GRAVIDEZ, PARTO E PUERPÉRIO";1604
+". 088 Gravidez que termina em aborto";120
+". 089 Outras causas obstétricas diretas";776
+". 090 Causas obstétricas indiretas";392
+". 091 Causa obstétrica não espec direta/indireta";36
+". 092 Causas maternas tardias e sequelas";280
+"093-097 ALG AFECÇÕES ORIGIN NO PERÍODO PERINATAL";7723
+". 093 Feto e recemnasc afet fat mat e compl grav";2568
+". 094 Transt relac duração gestação e cresc fetal";605
+". 095 Traumatismo de parto";13
+". 096 Trans resp e cardiovas espec per perinatal";2391
+". 097 Rest afec originadas no período perinatal";2146
+"098-100 MALF CONGÊN, DEFORM E ANOMAL CROMOSSÔMICAS";5018
+". 098 Malformações congênitas do sistema nervoso";801
+". 099 Malf congênitas do aparelho circulatório";1935
+". 100 Rest de malf cong, deform e anomal Cromoss";2282
+"101-103 SINT, SIN E ACH ANORM CLÍN E LAB, NCOP";29515
+". 101 Senilidade";2680
+". 102 Morte sem assistência médica";2625
+". 103 Rest sint, sin e ach anorm clín e laborat";24210
+"104-113 CAUSAS EXTERNAS DE MORBIDADE E MORTALIDADE";33185
+". 104 Acidentes de transporte";6164
+". 105 Quedas";8284
+". 106 Afogamento e submersões acidentais";678
+". 107 Exposição à fumaça, ao fogo e às chamas";298
+". 108 Envenen, intoxic por ou expos a subst nociv";207
+". 109 Lesões autoprovocadas voluntariamente";3758
+". 110 Agressões";3887
+". 111 Eventos(fatos) cuja intenção é indeterminada";3894
+". 112 Intervenções legais e operações de guerra";16
+". 113 Todas as outras causas externas";5999
+"Total";661882
